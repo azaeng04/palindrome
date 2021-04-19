@@ -2,9 +2,12 @@
 
 This contains automated tests for the palindrome functionality
 
+## Clone the repo
+`git clone https://github.com/azaeng04/palindrome.git`
+
 ## Getting set up
 
-In npm packages:
+Install npm packages:
 
 `npm install`
 
