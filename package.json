@@ -1,0 +1,24 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run -b chrome",
+    "cy:open": "cypress open --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaeng04/palindrome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azaeng04/palindrome/issues"
+  },
+  "homepage": "https://github.com/azaeng04/palindrome#readme",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  }
+}
